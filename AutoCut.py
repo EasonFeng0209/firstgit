@@ -1,8 +1,6 @@
 import cv2
 
 img = cv2.imread(r"D:\pythonExp\opencv\cars.jpg")
-#mw = img.size[0]
-#mh = img.size[1]
 
 a = 100
 b = 60
