@@ -6,6 +6,7 @@ img = cv2.imread(r"D:\pythonExp\opencv\cars.jpg")
 
 a = 100
 b = 60
+c = 0
 for y in range(7): 
     y0 = y * b
 	
