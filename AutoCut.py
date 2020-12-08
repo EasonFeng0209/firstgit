@@ -4,7 +4,11 @@ img = cv2.imread(r"D:\pythonExp\opencv\cars.jpg")
 #img = cv2.imread(r"D:\pythonExp\opencv\cars.jpg")
 #add a line
 
+<<<<<<< HEAD
 #add branch line 2
+=======
+#add branch line 1
+>>>>>>> firstbranch
 
 a = 100
 b = 60
