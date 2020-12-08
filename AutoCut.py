@@ -10,10 +10,6 @@ img = cv2.imread(r"D:\pythonExp\opencv\cars.jpg")
 
 
 
-
-
-
-
 a = 100
 b = 60
 c = 0
